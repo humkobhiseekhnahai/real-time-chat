@@ -32,7 +32,7 @@ Follow these steps to set up and run the project locally.
      Open a new terminal window and run the following commands:
 
      ```bash
-     cd client
+     cd frontend
      npm i
      npm run dev
      ```
