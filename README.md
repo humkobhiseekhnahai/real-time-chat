@@ -2,7 +2,8 @@
 
 This is a **real-time chat application** that allows users to exchange messages instantly. The application is built using websocket library and redis and provides features such as announcement, dynamic chat functionality, and responsive UI design.
 
-![Chat Interface Preview](link_to_screenshot) <!-- You can add a screenshot here if you'd like -->
+<img width="1440" alt="Screenshot 2024-10-25 at 11 35 45 AM" src="https://github.com/user-attachments/assets/c9302352-2748-4f3c-837a-dd443ee2d9b2">
+
 
 ## Installation
 
