@@ -14,6 +14,7 @@ Follow these steps to set up and run the project locally.
    ```bash
    git clone https://github.com/humkobhiseekhnahai/real-time-chat.git
    ```
+   start a redis server locally
 
 4. **Run the application:**
 
